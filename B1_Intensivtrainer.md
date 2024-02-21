@@ -4,7 +4,7 @@
 # 02_Lektion_2_Aufgabe_4.mp3
 <audio controls loop src="B1_Intensivtrainer/02_Lektion_2_Aufgabe_4.mp3"></audio>
 
-`````
+`````de
 Lea: Sag mal Tom, war heute nicht dein erster Praktikumstag im Betrieb?
 Tom: Doch der war heute.
 Lea: Ja… und wie war´s? Erzähl doch mal.
@@ -19,7 +19,7 @@ Tom: Ja, ich glaube, das war eine richtig gute Idee mit dem Praktikum!
 # 04_Lektion_3_Aufgabe_9.mp3
 <audio controls loop src="B1_Intensivtrainer/04_Lektion_3_Aufgabe_9.mp3"></audio>
 
-`````
+`````de
 Moderatorin: Haben Sie am Sonntagvormittag schon etwas vor? Wir hätten einen Vorschlag für Sie. Am Sonntag um 11 Uhr senden wir den Beitrag „Von einem, der ins Grüne zog“. Hören Sie nun schon mal einen Ausschnitt aus unserem Interview mit dem Star-Fotografen Matthias Treiben, der von seinem neuen Landleben berichtet. Wir haben den Künstler zu Hause besucht und einen neugierigen Blick auf seine neuen Arbeiten geworfen, in denen die Natur nun die Hauptrolle spielt.
 Matthias Treiben: Plötzlich hatte ich genug von der dicht besiedelten Großstadt, in der Tag und Nacht Chaos herrscht. Anders als die meisten meiner Generation träumte ich von einsamen Gegenden im Grünen.
 Moderatorin: Na, haben wir Ihr Interesse geweckt? Das ganze Interview senden wir am Sonntag, um 11 Uhr. Natürlich auf 93.9!
@@ -28,7 +28,7 @@ Moderatorin: Na, haben wir Ihr Interesse geweckt? Das ganze Interview senden wir
 # 05_Lektion_4_Aufgabe_4.mp3
 <audio controls loop src="B1_Intensivtrainer/05_Lektion_4_Aufgabe_4.mp3"></audio>
 
-`````
+`````de
 Kundenservice: Firma Designa, Kundenservice, guten Tag. Was kann ich für Sie tun?
 [Kundin: Guten Tag, Weber mein Name. Es geht um einen Tisch, den ich bei Ihnen bestellt habe. Er ist gestern gekommen, aber ohne Beine.]
 Kundenservice: Das tut mir sehr leid, aber Sie sind hier leider falsch. Für Reklamationen muss ich Sie mit der Möbelabteilung verbinden.
@@ -48,7 +48,7 @@ Kundenservice: Kann er Sie zurückrufen?
 # 08_Lektion_6_Aufgaben_7_8.mp3
 <audio controls loop src="B1_Intensivtrainer/08_Lektion_6_Aufgaben_7_8.mp3"></audio>
 
-`````
+`````de
 Peter: Hallo Ina. Hier ist Peter. Du musst mir unbedingt helfen. Ich bin morgen bei meinem Chef zum Abendessen eingeladen und ich habe Angst, einen Fehler zu machen.
 Ina: Ach, Peter! Wieso denn? Du hast doch sehr gute Tischmanieren!
 Peter: Ja vielleicht, aber mein Chef ist Inder. Weißt du, worauf ich da achten sollte?
